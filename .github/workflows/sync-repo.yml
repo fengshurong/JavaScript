@@ -2,7 +2,7 @@
 name: sync-ziye12-JavaScript
 on:
   schedule:
-    - cron: '1 */0.2 * * *'
+    - cron: '1 */0.5 * * *'
   workflow_dispatch:
   watch:
     types: started
